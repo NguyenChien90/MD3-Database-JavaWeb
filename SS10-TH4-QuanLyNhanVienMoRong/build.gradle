@@ -3,7 +3,7 @@ plugins {
   id 'war'
 }
 
-group 'rikkei'
+group 'rikkei.academy'
 version '1.0-SNAPSHOT'
 
 repositories {
