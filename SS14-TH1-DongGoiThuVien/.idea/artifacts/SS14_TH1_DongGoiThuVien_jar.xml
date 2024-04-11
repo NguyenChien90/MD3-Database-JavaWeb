@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SS14-TH1-DongGoiThuVien:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SS14_TH1_DongGoiThuVien_jar</output-path>
+    <root id="archive" name="SS14-TH1-DongGoiThuVien.jar">
+      <element id="module-output" name="SS14-TH1-DongGoiThuVien" />
+    </root>
+  </artifact>
+</component>
