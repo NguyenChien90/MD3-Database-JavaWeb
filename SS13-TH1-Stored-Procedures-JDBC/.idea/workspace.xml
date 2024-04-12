@@ -5,22 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="772505aa-950c-4285-9436-3445e4c6db75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rikkei/academy/controller/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rikkei/academy/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rikkei/academy/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rikkei/academy/service/UserServiceIMPL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/user/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/user/edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/user/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rikkei/academy/HelloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/src/main/java/rikkei/academy/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/src/main/java/rikkei/academy/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/src/main/java/rikkei/academy/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/src/main/java/rikkei/academy/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/src/main/java/rikkei/academy/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/src/main/java/rikkei/academy/service/IStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/src/main/java/rikkei/academy/service/StudentServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/src/main/webapp/WEB-INF/views/students/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/src/main/webapp/WEB-INF/views/students/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/java/rikkei/academy/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/java/rikkei/academy/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/java/rikkei/academy/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/java/rikkei/academy/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/java/rikkei/academy/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/java/rikkei/academy/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/java/rikkei/academy/utils/ConnectionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/webapp/WEB-INF/views/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/webapp/WEB-INF/views/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b8f6cf02-7e3b-49bf-896d-0d7efdb82a9f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b8f6cf02-7e3b-49bf-896d-0d7efdb82a9f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/src/main/java/rikkei/academy/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH1-CheckEmailConfigXML/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/src/main/java/rikkei/academy/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH2-StudentManagerment/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/java/rikkei/academy/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SS17-TH3-Category-CRUD-JDBC/src/main/webapp/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +83,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Tomcat Server.Tomcat 9.0.74.executor": "Run",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/0-RIKKEI-ACADEMY/Học liệu/MD3 - DataBase - Java Web - V3.0 (up 31-03-2024)/Link-Git-MD3/SS13-TH1-Stored-Procedures-JDBC/src/main/java/rikkei/academy",
+    "last_opened_file_path": "D:/0-RIKKEI-ACADEMY/Học liệu/MD3 - DataBase - Java Web - V3.0 (up 31-03-2024)/Link-Git-MD3/SS16-TH2-CustomerManager-ConfigXML",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -188,6 +213,7 @@
       <updated>1712461557522</updated>
       <workItem from="1712461558556" duration="46000" />
       <workItem from="1712809084338" duration="1009000" />
+      <workItem from="1712903843785" duration="157000" />
     </task>
     <servers />
   </component>
